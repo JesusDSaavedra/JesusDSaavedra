@@ -5,7 +5,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=JesusDSaavedra&color=2685BF)
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
     <h1 align="center">Hi 👋, I'm Jesus David</h1>
     <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
         Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
@@ -26,6 +26,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
@@ -35,12 +36,9 @@
 ### 📊 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusDSaavedra&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JesusDSaavedra&theme=onedark)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusDSaavedra&show_icons=true&locale=en&layout=compact" alt="youdevs" /></p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusDSaavedra&show_icons=true&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JesusDSaavedra&show_icons=true&locale=en" alt="youdevs" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusDSaavedra&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
