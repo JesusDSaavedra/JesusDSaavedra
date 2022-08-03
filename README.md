@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
     <h1 align="center">Hola 👋,soy Jesus David</h1>
-    <h3 align="center">Un joven entusiasta e apasionado por la tecnologia y el diseño, en busqueda de constante crecimiento personal el cual me permita desarrollar y mejorar mis aptitudes </h3>
+    <h3 align="center">Un joven entusiasta e apasionado por la tecnologia y el diseño, en busqueda de constante aprendizaje el cual me permita desarrollar y fortalecer mis habilidades</h3>
 </div>
 
 --- 
